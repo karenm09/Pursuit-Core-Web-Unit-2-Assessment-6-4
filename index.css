@@ -13,16 +13,16 @@ header{
    margin-bottom: 30px;
    padding: 10px;
    background-color: skyblue;
+   display: flex;
    align-self: center;
+   justify-content: space-between;
 }
 
 img {
    height: 150px;
-   float: left;
 }
 
 h1 {
-   float: right;
    height: 50%;
    padding-top: 5%;
 }
